@@ -1,0 +1,2 @@
+type, x1, y1, width, height, color
+rect, 0, 0, 200, 100, purple
