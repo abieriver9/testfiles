@@ -1,3 +1,8 @@
-type,x1,y1,x2,y2,width,height,color,linecolor,stroke
-line,100,100,100,250,200,100,red,black,5
-line,250,100,250,250,200,100,blue,black,5
+type,x1,y1,x2,y2,r,color,stroke-width,width,height
+circle,850,50,0,0,50,#F7F052,0,0,0
+line,790,30,750,30,0,#F7F052,4,0,0
+line,850,110,850,150,0,#F7F052,4,0,0
+line,790,90,750,120,0,#F7F052,4,0,0
+rect,0,280,0,0,0,#BAD4A,0,900,120
+rect,200,200,0,0,0,#86836D,0,50,80
+ellipse,225,170,100,75,0,#648767,0,0,0
