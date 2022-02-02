@@ -1,2 +1,2 @@
-type, x1, y1, width, height, color, linecolor
-rect, 150, 60, 200, 100, purple, black
+type, x1, y1, x2, y2, width, height, color, linecolor, stroke
+rect, 150, 60, 250, 160, 200, 100, purple, black, 5
